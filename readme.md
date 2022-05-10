@@ -20,6 +20,8 @@ These shaders are all written in GLSL and can be run using [The Book of Shaders'
 
 Open the in-web editor, copy the code of the file you want to run, and paste it into the editor. That's it!
 
+Another way of running these is using the TrippyGL project found in the [ShaderRunner folder](ShaderRunner). This project will run the first .glsl file it finds in its working directory. It however doesn't have any features such as being able to move things around or zoom in... Yet!
+
 ## Gallery
 ### [Voronoi Black and White](artistic/voronoiBlackWhite.glsl)
 ![](gallery/voronoiBlackWhite.png)
