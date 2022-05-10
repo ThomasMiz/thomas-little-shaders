@@ -19,3 +19,16 @@ With that crazy backstory now out of the way, let's get straight to it. Over the
 These shaders are all written in GLSL and can be run using [The Book of Shaders' Editor](https://thebookofshaders.com/edit.php).
 
 Open the in-web editor, copy the code of the file you want to run, and paste it into the editor. That's it!
+
+## Gallery
+### [Voronoi Black and White](artistic/voronoiBlackWhite.glsl)
+![](gallery/voronoiBlackWhite.png)
+
+### [FBM Mountains](complexNoise/fbmMountains.glsl)
+![](gallery/fbmMountains.png)
+
+### [Complex Terrain: "The Archipelago"](procTerrain/complexProcTerrain.glsl)
+![](gallery/complexProcTerrain.png)
+
+### [Procedural Bricks](misc/procBricks.glsl)
+![](gallery/procBricks.png)

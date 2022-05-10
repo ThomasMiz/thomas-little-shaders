@@ -7,8 +7,8 @@ precision mediump float;
 const float scale = 6.0;
 const vec2 offset = vec2(0.0, 0.0);
 const float force = 0.304;
-const float baseOffset = 1.4;
-const float baseMultiplier = 1.7;
+const float baseOffset = 1.2;
+const float baseMultiplier = 1.8;
 const float baseHeight = 0.5;
 
 const float drawDebug = 0.0;
