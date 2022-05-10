@@ -26,6 +26,12 @@ Another way of running these is using the TrippyGL project found in the [ShaderR
 ### [Voronoi Black and White](artistic/voronoiBlackWhite.glsl)
 ![](gallery/voronoiBlackWhite.png)
 
+### [Julia Set 1](fractals/juliaSet1.glsl)
+![](gallery/juliaSet1.png)
+
+### [Julia Set 2](fractals/juliaSet2.glsl)
+![](gallery/juliaSet2.png)
+
 ### [FBM Mountains](complexNoise/fbmMountains.glsl)
 ![](gallery/fbmMountains.png)
 
@@ -34,3 +40,6 @@ Another way of running these is using the TrippyGL project found in the [ShaderR
 
 ### [Procedural Bricks](misc/procBricks.glsl)
 ![](gallery/procBricks.png)
+
+### [Voronoi Colors](misc/voronoiColors.glsl)
+![](gallery/voronoiColors.png)
