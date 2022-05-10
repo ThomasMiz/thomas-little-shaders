@@ -11,7 +11,7 @@ I could barely move for the following days. I started looking for things to do o
 
 Had it not been because of those arduous days, I would not have gotten into shaders that early. Had it not been because of that schnitzel, I wouldn't have started making videogame graphics effects for highschool projects, I wouldn't have gotten into OpenGL, I wouldn't have developed [TrippyGL](https://github.com/SilkCommunity/TrippyGL), my own graphics library, nor [Rectpack](https://github.com/ThomasMiz/RectpackSharp) alongside it, I wouldn't have helped around in [Silk.NET](https://github.com/dotnet/Silk.NET).
 
-And in a certain way, I may owe it all to my brother and sister; who didn't hesitate to get medical help after I told him to or she found me half-unconscious on the floor respectively (Seriously, they did not hesitate. They both went back right to sleep).
+And in a certain way, I may owe it all to my brother and sister; who didn't hesitate to get medical help after I told him to so or she found me half-unconscious on the floor respectively (Seriously, they did not hesitate. They both went right back to sleep).
 
 With that crazy backstory now out of the way, let's get straight to it. Over the years, I have written many cool-looking shaders. The idea of this repo is to publish them so anyone can take a look, run them, or learn from them. Have fun!
 
