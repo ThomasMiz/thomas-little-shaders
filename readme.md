@@ -1,4 +1,4 @@
-# Thomas' Little Shaders
+# Thomas' Little Shader Library
 Hi! My name is Thomas.
 
 In 2017, me and my family went on a vacation trip to the island of Koh Samui, Thailand. There were many beautiful sights to see, and things to learn, and places to discover!
